@@ -33,3 +33,4 @@
 33 mirror str.py
 34 pascal triangle.py
 35 sumsquare.py
+36 Simpleinterest.py
