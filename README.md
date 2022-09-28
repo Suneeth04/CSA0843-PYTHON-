@@ -32,3 +32,4 @@
 32 rightangle pattern.py
 33 mirror str.py
 34 pascal triangle.py
+35 sumsquare.py
