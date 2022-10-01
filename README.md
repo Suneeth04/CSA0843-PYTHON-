@@ -34,3 +34,15 @@
 34 pascal triangle.py
 35 sumsquare.py
 36 Simpleinterest.py
+37. ascending order.py
+38. vowels.py
+39. square cube.py
+40. student user.py
+41. reverse word.py
+42. pattern.py
+43. smaller than.py
+44. mean median mode.py
+45. vowels and consonents.py
+46. reverse number.py
+
+p
